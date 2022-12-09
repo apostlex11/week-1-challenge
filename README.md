@@ -1,4 +1,4 @@
-# _HORISEON WEBSITE PROJECT_
+# HORISEON WEBSITE PROJECT
 edited/completed by TERRY SA
 UCB Extension Coding Bootcamp
 

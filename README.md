@@ -38,5 +38,3 @@ allows the following languages to prosper to the creativity of the developer.
 ## RESOURCES
 https://www.w3schools.com/html/html5_semantic_elements.asp
 + Stated Website aided with finding elements that are more efficient, easy to find proper code for the week's assignment.
-
-

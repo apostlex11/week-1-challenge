@@ -29,5 +29,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## PERSONAL EVALUATION
+Class defined most neccessary elements and styles used for this weeks assignment. Independent study was required and any research from outside
+resources aided with shortcuts and easier understanding of the elements used. There wasn't much issues, a quick visit to the resources stated below and I've learned to fix the issues. I'm still trying to learn effective shortcuts for 
+faster writing codes. Learned that HTML is the foundation, CSS is the styling, JavaScript is the functionality. A proper foundation
+allows the following languages to prosper to the creativity of the developer.
 
-##
+## RESOURCES
+https://www.w3schools.com/html/html5_semantic_elements.asp
++ Stated Website aided with finding elements that are more efficient, easy to find proper code for the week's assignment.
+
+
